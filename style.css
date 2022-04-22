@@ -1,0 +1,10 @@
+textarea {
+    padding: 15px;
+    font-size: large;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
